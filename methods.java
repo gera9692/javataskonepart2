@@ -1,7 +1,7 @@
 /* gerald manyasa @ 2105029
  * java programmer
- * 
- * a method is a lock of code that only run only when its is clled
+ * Methods are used to perform certain actions, and they are also known as functions.
+ * a method is a lock of code that only run only when its is clled by passing them parametesthroug them
  * this program allows user to enter values and the program checks and determines the numbers that are great and small
  * 
 
